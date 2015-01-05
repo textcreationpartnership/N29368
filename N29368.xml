@@ -112,12 +112,13 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:039110_0000_10139DE6C5C23A58"/>
-            <pb facs="tcp:039110_0001_10136E36F26BC2B8"/>
+            <pb facs="unknown:039110_0000_10139DE6C5C23A58"/>
+            <pb facs="unknown:039110_0001_10136E36F26BC2B8"/>
             <p>PRESERVATION; OR, THE Hovel of the Rocks: A PLAY.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:039110_0002_10139D24685A1BD0" rendition="simple:additions"/>
+            <pb facs="unknown:039110_0002_10139D24685A1BD0"
+                rendition="simple:additions"/>
             <p>PRESERVATION; OR, THE HOVEL OF THE ROCKS. A PLAY, IN FIVE ACTS; INTERSPERSED WITH PART OF LILLO's DRAMA, IN THREE ACTS, CALLED "FATAL CURIOSITY."</p>
             <p>BY J. B. WILLIAMSON, DIRECTOR OF THE THEATRE IN CHARLESTON.</p>
             <p>Performed in LONDON, and at BOSTON (Maſſachuſetts) with the moſt flattering Succeſs.</p>
@@ -127,14 +128,14 @@
                </gap>AY. M.DCCC.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:039110_0003_10139D2A19ABEA28"/>
+            <pb facs="unknown:039110_0003_10139D2A19ABEA28"/>
             <head>Prefatory Addreſs.</head>
             <p>ENGAGED, profeſſionally, for a number of years in the direction of theatres, an intimate acquaintance with dramatic authors, early as well as modern, was an unavoidable conſequence: the plays of Lillo, preeminently claim attention; the pure ethics, the ſtriking example, the power<g ref="char:EOLhyphen"/>ful ſympathy, inculcated and excited in them, together with the ſublime and nervous ſimplicity of his language, and pathos of his characters, rank him high as a dramatiſt: an elegant <hi>French Critic</hi> quotes ſome ſcenes of Lillo's <hi>George Barnwell,</hi> as "a ſtandard of dramatic writing." To the mutations of manners, in part, and to the improved ſtate of the Engliſh ſtage, are aſcribable, that extreme ſenſibility, and refine<g ref="char:EOLhyphen"/>ment of taſte, which condemn the plays of this author to the cloſet: to purge the paſſions by ſcenes of terror and agony, is no longer held as an eſ<g ref="char:EOLhyphen"/>ſential of the Tragic Muſe! The Play of "<hi>Fatal Curioſity</hi>" has been frequently exhibited under the direction of that excellent critic, the
-<pb n="vi" facs="tcp:039110_0004_10139D2B9E67B4E8"/>
+<pb n="vi" facs="unknown:039110_0004_10139D2B9E67B4E8"/>
 late Mr. Colman; but the ſombre tints of the ſubject, the undivided intereſt of the incidents, chaining the mind to the heart-rending cataſ<g ref="char:EOLhyphen"/>trophe, (after repeated efforts, on the part of the public, to reliſh the bold, but terrific colour<g ref="char:EOLhyphen"/>ing of Lillo) returned it to the ſhelf; ſealed up from future repreſentations, by faintings, groans, and every other poſſible expreſſion of agony, in the audience.</p>
             <p>Impreſſed with its merit, and ſedulouſly pur<g ref="char:EOLhyphen"/>ſuing every reſearch for the public amuſement, I took the Play to pieces, and interwove with it an epiſodical plot; with a view, by dividing the at<g ref="char:EOLhyphen"/>tention, without weakening the intereſt of the original, to relieve the incidents; and the courſe of events opening a probable medium for chang<g ref="char:EOLhyphen"/>ing the cataſtrophe, I adopted, it:—In the per<g ref="char:EOLhyphen"/>formance it has anſwered my moſt ſanguine ex<g ref="char:EOLhyphen"/>pectations.</p>
             <p>If the admirers of Lillo, in his majeſtic ter<g ref="char:EOLhyphen"/>rors, will forgive the freedom I have uſed; if the public can reap one additiona gratification at the theatre from my labours, my object is com<g ref="char:EOLhyphen"/>pletely attained. I write not for applauſe; my
-<pb n="vii" facs="tcp:039110_0005_10139D2D229996F8"/>
+<pb n="vii" facs="unknown:039110_0005_10139D2D229996F8"/>
 end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſe—mute is the voice, which, from the rapturous applauſe of theatres, caught not the eſtimation of its own value, half ſo much, as from the reflected expreſſion of my gratitude.—Peace, gentle Shade! yet, ſweetly embalmed in the memory of an enlightened public.</p>
             <closer>
                <signed>The AUTHOR.</signed>
@@ -148,7 +149,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
             </postscript>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:039110_0006_10139D2EA8C2D468"/>
+            <pb facs="unknown:039110_0006_10139D2EA8C2D468"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <head>
@@ -192,7 +193,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:039110_0007_10139D3463B34070"/>
+            <pb facs="unknown:039110_0007_10139D3463B34070"/>
             <head>PRESERVATION: OR THE HOVEL OF THE ROCKS.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -221,7 +222,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>And age's evening uſher'd in by ſtorms</l>
                      <l>Of furious want, loud grief, and burſting ſcorn!</l>
                      <l>
-                        <pb n="2" facs="tcp:039110_0008_10139D35EA303390"/>My wife! Lov'd partner of my happier days,</l>
+                        <pb n="2" facs="unknown:039110_0008_10139D35EA303390"/>My wife! Lov'd partner of my happier days,</l>
                      <l>And keeneſt curſe of theſe—fair form diſgrac'd!</l>
                      <l>On ſome ſad errand of precarious help,</l>
                      <l>Hath ſallied forth.—This hour is mine, to ſpend</l>
@@ -255,7 +256,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                   <p>A view of the Sea running very high and breaking. Several Guns are irregularly fired. A Veſſel is ſeen diſmaſted and beating in the ſtorm. She ſtrikes on a Rock and ſinks. Thunder and lightning.</p>
                </div>
                <div n="3" type="scene">
-                  <pb n="3" facs="tcp:039110_0009_10139D37C6E5D6B0"/>
+                  <pb n="3" facs="unknown:039110_0009_10139D37C6E5D6B0"/>
                   <head>SCENE III. A Parlour in <hi>CHARLOTTE's</hi> Houſe.</head>
                   <stage>
                      <hi>Enter</hi> CHARLOTTE <hi>and</hi> MARIA.</stage>
@@ -301,7 +302,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>'Of honorable love?—This letter is—</l>
                   </sp>
                   <sp>
-                     <pb n="4" facs="tcp:039110_0010_10139D3A52627B60"/>
+                     <pb n="4" facs="unknown:039110_0010_10139D3A52627B60"/>
                      <speaker>'CHARLOTTE.</speaker>
                      <l>'No matter whence; return it back unopen'd.</l>
                      <l>'I have no love, no thought, but for my Wilmot,</l>
@@ -348,7 +349,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>'Merit a better fate.</l>
                   </sp>
                   <sp>
-                     <pb n="5" facs="tcp:039110_0011_10139D3DEA223970"/>
+                     <pb n="5" facs="unknown:039110_0011_10139D3DEA223970"/>
                      <speaker>'CHARLOTTE.</speaker>
                      <l>'So pride would tell me,</l>
                      <l>'And vain ſelf-love—but I believe them not:</l>
@@ -394,7 +395,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>'We muſt have patience.</l>
                   </sp>
                   <sp>
-                     <pb n="6" facs="tcp:039110_0012_10139D3F6F5848F8"/>
+                     <pb n="6" facs="unknown:039110_0012_10139D3F6F5848F8"/>
                      <speaker>'MRS. WILMOT.</speaker>
                      <l>'No; I ſcorn them yet.</l>
                      <l>'But there's no end of ſuff'ring: Who can ſay</l>
@@ -444,7 +445,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>'And, wrapt in darkneſs, doubles our diſtreſs.</l>
                   </sp>
                   <sp>
-                     <pb n="7" facs="tcp:039110_0013_10139D420B338DC0"/>
+                     <pb n="7" facs="unknown:039110_0013_10139D420B338DC0"/>
                      <speaker>'MRS. WILMOT.</speaker>
                      <l>'I came not to hear this!</l>
                   </sp>
@@ -497,7 +498,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <p>The wind's abated, Flint, and there's leſs ſurf! We ſhall go off by day-break. Where are the men?</p>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:039110_0014_10139D44EED712D8"/>
+                     <pb n="8" facs="unknown:039110_0014_10139D44EED712D8"/>
                      <speaker>FLINT.</speaker>
                      <p>Below upon the beach: They hauled the boat up as the gale came on; and are now getting her afloat again. It was a ſmoaker!</p>
                   </sp>
@@ -536,7 +537,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <p>A buſineſs! Why, what would you do further? They've nothing left!</p>
                   </sp>
                   <sp>
-                     <pb n="9" facs="tcp:039110_0015_10139D48A2572B10"/>
+                     <pb n="9" facs="unknown:039110_0015_10139D48A2572B10"/>
                      <speaker>MALIGN.</speaker>
                      <p>Do you, who've help'd on their deſtruction, aſk me that? I have enmity and intereſt too to ſpur me on. His lingering days detain the inheritance, that by young Wilmot's loſs, muſt now be mine. Tho' he has mortgag'd his life-intereſt in it beyond its va<g ref="char:EOLhyphen"/>lue, help may yet ſtep in 'twixt him and death. He lives too long: But of this hereafter.—The wreck is our firſt care; we, who endure the bleak blaſts of the ſtorm, muſt be rewarded for our patience.</p>
                   </sp>
@@ -570,7 +571,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>Oh-h-h!—</l>
                   </sp>
                   <sp>
-                     <pb n="10" facs="tcp:039110_0016_10139D4A283D1A08"/>
+                     <pb n="10" facs="unknown:039110_0016_10139D4A283D1A08"/>
                      <speaker>BOY.</speaker>
                      <l>He ſighs! O Heav'n!.</l>
                      <l>What language ſhall I find to give him comfort?</l>
@@ -628,7 +629,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>You have received, no more. The very rock,</l>
                      <l>That running northward, out into the ſea,</l>
                      <l>
-                        <pb n="11" facs="tcp:039110_0017_10139D4CAE5FC3E0"/>Proves oft thus fatal, providently yields</l>
+                        <pb n="11" facs="unknown:039110_0017_10139D4CAE5FC3E0"/>Proves oft thus fatal, providently yields</l>
                      <l>This friendly hovel in your hour of need:—</l>
                      <l>No farther debtor have I means to make you.</l>
                   </sp>
@@ -678,7 +679,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>'Till watching at the entrance of our hovel,</l>
                      <l>We heard the footing and the ſpeech of men!—</l>
                      <l>
-                        <pb n="12" facs="tcp:039110_0018_10139D4F73828600"/>An aged gentleman, whoſe family</l>
+                        <pb n="12" facs="unknown:039110_0018_10139D4F73828600"/>An aged gentleman, whoſe family</l>
                      <l>Has fallen to decay, who frequent ſtrays</l>
                      <l>O'er theſe wild rocks alone, had ſeen your peril:</l>
                      <l>Your friend, almoſt exhauſted, reach'd the ſhore;</l>
@@ -737,7 +738,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>My fate, alas! admits no hope of good.—</l>
                      <l>A parent's grief makes me not feel my own:</l>
                      <l>
-                        <pb n="13" facs="tcp:039110_0019_10139D53289344A0"/>Her wants, are all the uſe I have for life:</l>
+                        <pb n="13" facs="unknown:039110_0019_10139D53289344A0"/>Her wants, are all the uſe I have for life:</l>
                      <l>Thoſe once remov'd by Providence, I own</l>
                      <l>The world has no temptation, life no charm,</l>
                      <l>To make me wiſh mine lengthen'd paſt an hour.</l>
@@ -780,7 +781,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>This morning, full of joy, I view'd the coaſt,</l>
                      <l>Long look'd for, long poſſeſs'd, by fancy's aid—</l>
                      <l>
-                        <pb n="14" facs="tcp:039110_0020_10139D54AD99EF58"/>That very coaſt—the harbour of my hopes—</l>
+                        <pb n="14" facs="unknown:039110_0020_10139D54AD99EF58"/>That very coaſt—the harbour of my hopes—</l>
                      <l>With hoſtile fury daſh'd us to the bottom;</l>
                      <l>My father, wand'ring forth to feed deſpair,</l>
                      <l>Reſcues his every comfort from the deep!</l>
@@ -840,7 +841,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>In cordial gratulation on our ſafety;</l>
                      <l>Vaniſh'd at once; and gloomy care return'd:</l>
                      <l>
-                        <pb n="15" facs="tcp:039110_0021_10139D5747C332A8"/>I ſcarcely knew him—in this foreign garb,</l>
+                        <pb n="15" facs="unknown:039110_0021_10139D5747C332A8"/>I ſcarcely knew him—in this foreign garb,</l>
                      <l>Thus chang'd, no wonder that he knew not me.</l>
                   </sp>
                   <sp>
@@ -896,7 +897,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>'My thoughts were then at home. Soul-cheering ſpot,</l>
                      <l>'Thou ſeat of plenty, liberty, and health!</l>
                      <l>
-                        <pb n="16" facs="tcp:039110_0022_10139D5B19900970"/>'After a long and tedious abſence, Arnold,</l>
+                        <pb n="16" facs="unknown:039110_0022_10139D5B19900970"/>'After a long and tedious abſence, Arnold,</l>
                      <l>'With what delight we breathe our native air,</l>
                      <l>'And tread the genial ſoil that bore us firſt!</l>
                      <l>'Tis ſaid, the world is ev'ry wiſe man's country;</l>
@@ -942,7 +943,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>'Diſtraction's in the thought, and doubt is death!</l>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:039110_0023_10139D5C9DED54C8"/>
+                     <pb n="17" facs="unknown:039110_0023_10139D5C9DED54C8"/>
                      <speaker>ARNOLD.</speaker>
                      <l>'The wretch who fears all that is poſſible,</l>
                      <l>'Muſt ſuffer more than him who feels the worſt</l>
@@ -987,7 +988,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>Never fear!—</l>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:039110_0024_10139D5F441F86D8"/>
+                     <pb n="18" facs="unknown:039110_0024_10139D5F441F86D8"/>
                      <speaker>Y. WILMOT.</speaker>
                      <l>It was a needleſs charge—but</l>
                      <l>My Charlotte's gentle nature could not bear it!</l>
@@ -1032,7 +1033,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                <trailer>END OF ACT THE FIRST.</trailer>
             </div>
             <div n="2" type="act">
-               <pb n="19" facs="tcp:039110_0025_10139D60CB7F1D80"/>
+               <pb n="19" facs="unknown:039110_0025_10139D60CB7F1D80"/>
                <head>ACT II.</head>
                <div type="scene">
                   <head>
@@ -1071,7 +1072,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>He pays his mother, that fair nature ſmiles,</l>
                      <l>Ev'n through the rugged front of their hard lot,</l>
                      <l>
-                        <pb n="20" facs="tcp:039110_0026_10139D63D891DB20"/>And tempers miſery to meet their ſtrength.—</l>
+                        <pb n="20" facs="unknown:039110_0026_10139D63D891DB20"/>And tempers miſery to meet their ſtrength.—</l>
                      <l>Good morrow gentle youth!
 <stage>He comes forward.</stage>
                      </l>
@@ -1125,7 +1126,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>A touching ſemblance in each ſtroke of fate,</l>
                      <l>Aſſimilating all!—No ſtep I take</l>
                      <l>
-                        <pb n="21" facs="tcp:039110_0027_10139D68848C5E20"/>But 'wakes my woes afreſh within my mind—</l>
+                        <pb n="21" facs="unknown:039110_0027_10139D68848C5E20"/>But 'wakes my woes afreſh within my mind—</l>
                      <l>I aſk your pardon, ſir; I am to blame.—</l>
                   </sp>
                   <sp>
@@ -1175,7 +1176,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>He quitted ſea; but ſtill employ'd his wealth</l>
                      <l>In foreign traffic—On ſome trifling loſſes,</l>
                      <l>
-                        <pb n="22" facs="tcp:039110_0028_10139D6B24330B48"/>He form'd the luckleſs, fatal reſolution,</l>
+                        <pb n="22" facs="unknown:039110_0028_10139D6B24330B48"/>He form'd the luckleſs, fatal reſolution,</l>
                      <l>To make one cloſing voyage, and riſk no more.</l>
                      <l>My mother ſtrove, with anxious boding heart,</l>
                      <l>And tears, in vain, to win him from his purpoſe:</l>
@@ -1225,7 +1226,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>One friend, one tender friend—</l>
                      <l>Pardon my ſtreaming eyes—he was a friend—</l>
                      <l>
-                        <pb n="23" facs="tcp:039110_0029_10139D6CA9B81D60"/>No more!—who would have ſtretch'd a ſaving hand<g ref="char:punc">▪</g>
+                        <pb n="23" facs="unknown:039110_0029_10139D6CA9B81D60"/>No more!—who would have ſtretch'd a ſaving hand<g ref="char:punc">▪</g>
                      </l>
                      <l>Had ſail'd for India—we were quite friendleſs!</l>
                   </sp>
@@ -1273,7 +1274,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>'Twas ſure the hand of Providence that led you.</l>
                   </sp>
                   <sp>
-                     <pb n="24" facs="tcp:039110_0030_10139D6F51BE2128"/>
+                     <pb n="24" facs="unknown:039110_0030_10139D6F51BE2128"/>
                      <speaker>BOY.</speaker>
                      <l>Methought I ſtill was waking, but I ſaw</l>
                      <l>A little ſkiff with oars, and net for fiſhing;—</l>
@@ -1321,7 +1322,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>Anticipating all the wiſh'd event,</l>
                      <l>That yet ſhall crown your patience with deliv'rance,</l>
                      <l>
-                        <pb n="25" facs="tcp:039110_0031_10139D7203E8D6D8"/>And bleſt the wide protecting hand of Heav'n!—</l>
+                        <pb n="25" facs="unknown:039110_0031_10139D7203E8D6D8"/>And bleſt the wide protecting hand of Heav'n!—</l>
                      <l>Say, of that abſent friend—have you not heard?</l>
                   </sp>
                   <sp>
@@ -1382,7 +1383,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <l>Spare me, I pray you, and inquire no more;</l>
                      <l>Advice is fruitleſs: 'tis a private ſorrow,</l>
                      <l>
-                        <pb n="26" facs="tcp:039110_0032_10139D74D11780E8"/>Belongs to me alone—'tis paſt all remedy;</l>
+                        <pb n="26" facs="unknown:039110_0032_10139D74D11780E8"/>Belongs to me alone—'tis paſt all remedy;</l>
                      <l>And probing gives one pang, it may be ſpar'd.</l>
                   </sp>
                   <sp>
@@ -1443,7 +1444,7 @@ end is not fame: Loſt, alas! is that talent, for which I was covetous of praiſ
                      <floatingText type="letter">
                         <body>
                            <p>Be not alarm'd my dear Wilmot, that I do not return; know that your Charlotte is
-<pb n="27" facs="tcp:039110_0033_10139D77634FDF08"/>
+<pb n="27" facs="unknown:039110_0033_10139D77634FDF08"/>
 well, your parents both living, and oppreſs'd by no care but what your fortune will relieve them from; be perfectly at eaſe in this intelligence: But, your friend, your unhappy Arnold, is un<g ref="char:EOLhyphen"/>done. Lucy, his beſt beloved; the miſtreſs of his fate; what ſhall I tell thee? Is no more— perhaps ſhe lives—but where?—I am diſtracted— pardon this incoherence—many years are paſt ſince the family plung'd in inextricable ruin, have left the place: My enquiries are fruitleſs—pity is a ſtranger here, they anſwer my impatience with a coldneſs that tortures me to madneſs. Em<g ref="char:EOLhyphen"/>brace your fortune, Wilmot, while it ſmiles; let not my diſtraction damp your joy; you will find me, at the inn—but what time, I know not; for till my Lucy is found, life is for no other pur<g ref="char:EOLhyphen"/>poſe than to ſeek her, if living, or, by laying it down, to follow her, if dead.</p>
                            <closer>
                               <signed>Thy unhappy ARNOLD.</signed>
@@ -1468,7 +1469,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'The day is far advanced. The chearful ſun,</l>
                      <l>'Purſues with vigour his repeated courſe;</l>
                      <l>
-                        <pb n="28" facs="tcp:039110_0034_10139D7B43E56BD8"/>'No labor leſſens, nor no time decays</l>
+                        <pb n="28" facs="unknown:039110_0034_10139D7B43E56BD8"/>'No labor leſſens, nor no time decays</l>
                      <l>'His ſtrength, or ſplendor: evermore the ſame,</l>
                      <l>'From age to age his influence ſuſtains</l>
                      <l>'Dependent worlds, beſtows both life and motion</l>
@@ -1514,7 +1515,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'Tis thought all periſh'd.</l>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:039110_0035_10139D7CC93D5B40"/>
+                     <pb n="29" facs="unknown:039110_0035_10139D7CC93D5B40"/>
                      <speaker>O. WILMOT.</speaker>
                      <l>Not ſo, Randal, hear</l>
                      <l>What befel. It chanc'd at Ev'n, muſing alone</l>
@@ -1559,7 +1560,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'Doth ſhe ſuſtain the abſence of our ſon,</l>
                      <l>'Whom more than life ſhe loves! How ſhun for him,</l>
                      <l>
-                        <pb n="30" facs="tcp:039110_0036_10139D7F58CE6B08"/>'Whom we ſhall ne'er ſee more, the rich and great</l>
+                        <pb n="30" facs="unknown:039110_0036_10139D7F58CE6B08"/>'Whom we ſhall ne'er ſee more, the rich and great</l>
                      <l>'Who own her charms more than ſupply the place</l>
                      <l>'Of ſhining heaps, and ſigh to make her happy.—</l>
                      <l>'Since our misfortunes, we have found no friend,</l>
@@ -1607,7 +1608,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'When poverty began to ſhew her face</l>
                      <l>'Within theſe walls, and all my other ſervants,</l>
                      <l>
-                        <pb n="31" facs="tcp:039110_0037_10139D834C89CB08"/>'Like pamper'd vermin, from a falling houſe</l>
+                        <pb n="31" facs="unknown:039110_0037_10139D834C89CB08"/>'Like pamper'd vermin, from a falling houſe</l>
                      <l>'Retreated, with the plunder they had gain'd,</l>
                      <l>'And left me, too indulgent and remiſs</l>
                      <l>'For ſuch ungrateful wretches, to be cruſh'd</l>
@@ -1656,7 +1657,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'Of riſing in the world.</l>
                   </sp>
                   <sp>
-                     <pb n="32" facs="tcp:039110_0038_10139D85DBBCDC50"/>
+                     <pb n="32" facs="unknown:039110_0038_10139D85DBBCDC50"/>
                      <speaker>RANDAL.</speaker>
                      <l>''Tis true, I'm young</l>
                      <l>'And never tried my fortune or my genius;</l>
@@ -1706,7 +1707,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'You mock me, ſure!</l>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:039110_0039_10139D8865239180"/>
+                     <pb n="33" facs="unknown:039110_0039_10139D8865239180"/>
                      <speaker>O. WILMOT.</speaker>
                      <l>'I never was more ſerious.</l>
                   </sp>
@@ -1753,7 +1754,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'High-minded he was ever, and improvident,</l>
                      <l>'But pityful and gen'rous to a fault.—</l>
                      <l>
-                        <pb n="34" facs="tcp:039110_0040_10139D89EA0E2CA0"/>'Pleaſure he lov'd—but honour was his idol;—</l>
+                        <pb n="34" facs="unknown:039110_0040_10139D89EA0E2CA0"/>'Pleaſure he lov'd—but honour was his idol;—</l>
                      <l>'O fatal change! O horrid transformation!</l>
                   </sp>
                   <stage>Exit Randal.</stage>
@@ -1787,7 +1788,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                <trailer>END OF ACT THE SECOND.</trailer>
             </div>
             <div n="3" type="act">
-               <pb n="35" facs="tcp:039110_0041_10139D8C84D16600"/>
+               <pb n="35" facs="unknown:039110_0041_10139D8C84D16600"/>
                <head>ACT III.</head>
                <div type="scene">
                   <head>SCENE. CHARLOTTE'S <hi>Houſe.</hi>
@@ -1845,7 +1846,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'What doſt thou know of Wilmot?</l>
                   </sp>
                   <sp>
-                     <pb n="36" facs="tcp:039110_0042_10139D903922B198"/>
+                     <pb n="36" facs="unknown:039110_0042_10139D903922B198"/>
                      <speaker>Y. WILMOT.</speaker>
                      <l>'This I know:</l>
                      <l>'When all the winds of Heav'n ſeem'd to conſpire,</l>
@@ -1882,7 +1883,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'You were his fate: The cruel winds and waves,</l>
                      <l>'That call him pale, and breathleſs, on the ſhore,</l>
                      <l>
-                        <pb n="37" facs="tcp:039110_0043_10139D91C27E36D0"/>'Spar'd him for greater woes—to know his Char<g ref="char:EOLhyphen"/>lotte,</l>
+                        <pb n="37" facs="unknown:039110_0043_10139D91C27E36D0"/>'Spar'd him for greater woes—to know his Char<g ref="char:EOLhyphen"/>lotte,</l>
                      <l>'Forgetting all her vows to him, and Heav'n,</l>
                      <l>'Had caſt him from her thoughts. Then, then, he died;</l>
                      <l>'But never can have reſt. Ev'n now he wanders,</l>
@@ -1923,7 +1924,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'May we ne'er meet again; but thy loud wrongs</l>
                      <l>'So cloſe the ear of mercy to my cries,</l>
                      <l>
-                        <pb n="38" facs="tcp:039110_0044_10139D94A44D26E0"/>'That I may never ſee thoſe bright abodes,</l>
+                        <pb n="38" facs="unknown:039110_0044_10139D94A44D26E0"/>'That I may never ſee thoſe bright abodes,</l>
                      <l>'Where truth, and virtue, only have admiſſion,</l>
                      <l>'And thou inhabit'ſt now.—</l>
                   </sp>
@@ -1957,7 +1958,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'The ſtruggling paſſions barr'd the doors of ſpeech;</l>
                      <l>'This vaſt profuſion of extreme delight,</l>
                      <l>
-                        <pb n="39" facs="tcp:039110_0045_10139D9629C6BB90"/>'Riſing at once, and burſting from deſpair,</l>
+                        <pb n="39" facs="unknown:039110_0045_10139D9629C6BB90"/>'Riſing at once, and burſting from deſpair,</l>
                      <l>'Baffles the aid of words, and mocks deſcription.</l>
                      <l>'But for one ſorrow, one ſad ſcene of anguiſh,</l>
                      <l>'That checks the ſwelling torrent of my joys,</l>
@@ -2003,7 +2004,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'Of thy lamenting parents, call thee hence.</l>
                   </sp>
                   <sp>
-                     <pb n="40" facs="tcp:039110_0046_10139D9A0B15DC30"/>
+                     <pb n="40" facs="unknown:039110_0046_10139D9A0B15DC30"/>
                      <speaker>Y. WILMOT.</speaker>
                      <l>'I have a friend, the partner of my travels,</l>
                      <l>'Who in the ſtorm, laſt night, was ſhipwreck'd with me.</l>
@@ -2049,7 +2050,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                   <stage>Exeunt.</stage>
                </div>
                <div n="2" type="scene">
-                  <pb n="41" facs="tcp:039110_0047_10139D9CAA8331A8"/>
+                  <pb n="41" facs="unknown:039110_0047_10139D9CAA8331A8"/>
                   <head>SCENE II. Another part of the Beach—a Cave under the Rock.</head>
                   <stage>
                      <hi>Enter</hi> MALIGN <hi>and</hi> FLINT, <hi>from the Cave.</hi>
@@ -2095,7 +2096,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>(I would have told you, but you would not hear me)—</l>
                      <l>Two ſtrangers paſs'd me: and the crowd that ſtar'd,</l>
                      <l>
-                        <pb n="42" facs="tcp:039110_0048_10139DA059A7A080"/>Said they had 'ſcap'd the wreck—I kept aloof;</l>
+                        <pb n="42" facs="unknown:039110_0048_10139DA059A7A080"/>Said they had 'ſcap'd the wreck—I kept aloof;</l>
                      <l>And follow'd—till they gain'd the door of her,</l>
                      <l>Whoſe love to young George Wilmot, has ſup<g ref="char:EOLhyphen"/>ported</l>
                      <l>His parents, to her ruin.—</l>
@@ -2136,7 +2137,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>I ſhall not back for trifles.—</l>
                   </sp>
                   <sp>
-                     <pb n="43" facs="tcp:039110_0049_10139DA2EE4EE390"/>
+                     <pb n="43" facs="unknown:039110_0049_10139DA2EE4EE390"/>
                      <speaker>MALIGN.</speaker>
                      <l>I think it;</l>
                      <l>And therefore freely truſt thee with my life.—</l>
@@ -2174,7 +2175,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'That dares put in his claim—My choice is made:</l>
                      <l>'A long farewell to Cornwal, and to England!</l>
                      <l>
-                        <pb n="44" facs="tcp:039110_0050_10139DA4816884F8"/>'If I return—but ſtay—what ſtranger's this,</l>
+                        <pb n="44" facs="unknown:039110_0050_10139DA4816884F8"/>'If I return—but ſtay—what ſtranger's this,</l>
                      <l>'Who as he views me, ſeems to mend his pace?</l>
                   </sp>
                   <stage>
@@ -2234,7 +2235,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'In your ſucceſs, and ſhare in all your joys.</l>
                   </sp>
                   <sp>
-                     <pb n="45" facs="tcp:039110_0051_10139DA78F9768C8"/>
+                     <pb n="45" facs="unknown:039110_0051_10139DA78F9768C8"/>
                      <speaker>Y. WILMOT.</speaker>
                      <l>'I doubt it not. But tell me, doſt thou think,</l>
                      <l>'(My parents, not ſuſpecting my return,)</l>
@@ -2287,7 +2288,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>Their pleaſure by ſurpriſe.—</l>
                   </sp>
                   <sp>
-                     <pb n="46" facs="tcp:039110_0052_10139DAB3861D298"/>
+                     <pb n="46" facs="unknown:039110_0052_10139DAB3861D298"/>
                      <speaker>RANDAL.</speaker>
                      <l>'It may, indeed,</l>
                      <l>'Inhance your own, to ſee from what deſpair,</l>
@@ -2330,7 +2331,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                <trailer>END OF ACT THE THIRD.</trailer>
             </div>
             <div n="4" type="act">
-               <pb n="47" facs="tcp:039110_0053_10139DACC38B7C68"/>
+               <pb n="47" facs="unknown:039110_0053_10139DACC38B7C68"/>
                <head>ACT IV.</head>
                <div type="scene">
                   <head>SCENE. OLD WILMOT'S <hi>Houſe.</hi> A Saloon, and entrance into the interior apart<g ref="char:EOLhyphen"/>ments.</head>
@@ -2371,7 +2372,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'Is ſtill a ſlave to prejudice, and fear—</l>
                      <l>'I would not leave my better part, the dear</l>
                      <l>
-                        <pb n="48" facs="tcp:039110_0054_10139DAF720F00A0"/>'Faithful companion of my happier days—</l>
+                        <pb n="48" facs="unknown:039110_0054_10139DAF720F00A0"/>'Faithful companion of my happier days—</l>
                      <l>'I'll try once more—</l>
                      <stage>
                         <hi>Re-enter</hi> MRS. WILMOT.</stage>
@@ -2432,7 +2433,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'Enough, tho' nothing more ſhou'd be imply'd,</l>
                      <l>'To recommend you to our beſt eſteem;</l>
                      <l>
-                        <pb n="49" facs="tcp:039110_0055_10139DB20873E120"/>'A worthleſs acquiſition! May ſhe find</l>
+                        <pb n="49" facs="unknown:039110_0055_10139DB20873E120"/>'A worthleſs acquiſition! May ſhe find</l>
                      <l>'Some means, that better may expreſs her kindneſs.</l>
                      <l>'But ſhe, perhaps, hath purpos'd to enrich</l>
                      <l>'You with herſelf, and end her fruitleſs ſorrow</l>
@@ -2478,7 +2479,7 @@ well, your parents both living, and oppreſs'd by no care but what your fortune 
                      <l>'The happieſt of mankind.</l>
                   </sp>
                   <sp>
-                     <pb n="50" facs="tcp:039110_0056_10139DB493468A30"/>
+                     <pb n="50" facs="unknown:039110_0056_10139DB493468A30"/>
                      <speaker>O. WILMOT.</speaker>
                      <l>'A rare example</l>
                      <l>'Of fortune's caprice; apter to ſurpriſe,</l>
@@ -2526,7 +2527,7 @@ Sir, I intreat</l>
                      <l>'I ſhall not ſleep the worſe.</l>
                      <stage>[Takes a caſket from his boſom, and gives it to Mrs. Wilmot.]</stage>
                      <l>
-                        <pb n="51" facs="tcp:039110_0057_10139DB89979CE08"/>'If I ſhould ſleep,</l>
+                        <pb n="51" facs="unknown:039110_0057_10139DB89979CE08"/>'If I ſhould ſleep,</l>
                      <l>'Till I am aſk'd for, as perhaps I may,</l>
                      <l>'I beg that you would wake me.</l>
                   </sp>
@@ -2573,7 +2574,7 @@ Sir, I intreat</l>
                      <l>'My eyes are dazzled, and my raviſh'd heart,</l>
                      <l>'Leaps at the glorious ſight!—</l>
                      <l>
-                        <pb n="52" facs="tcp:039110_0058_10139DBB6F324A68"/>
+                        <pb n="52" facs="unknown:039110_0058_10139DBB6F324A68"/>
                         <stage>[After a long pauſe of admiration.]</stage>
 A pleaſing dream!</l>
                      <l>'For ſure it was a happineſs to think,</l>
@@ -2623,7 +2624,7 @@ A pleaſing dream!</l>
                      <l>'And who ſhall know it?—</l>
                   </sp>
                   <sp>
-                     <pb n="53" facs="tcp:039110_0059_10139DBCF459D718"/>
+                     <pb n="53" facs="unknown:039110_0059_10139DBCF459D718"/>
                      <speaker>O. WILMOT.</speaker>
                      <l>'There is a kind of pride, a decent dignity,</l>
                      <l>'Due to ourſelves; which, ſpite of our misfor<g ref="char:EOLhyphen"/>tunes,</l>
@@ -2664,7 +2665,7 @@ An argument for life!—what can ſhe mean?</l>
                      <l>So advantageous, ſo ſecure and eaſy?</l>
                      <l>And yet ſo cruel, and ſo full of horror!—</l>
                      <l>
-                        <pb n="54" facs="tcp:039110_0060_10139DBF821E4450"/>Generous, unhappy man! What, what could urge thee,</l>
+                        <pb n="54" facs="unknown:039110_0060_10139DBF821E4450"/>Generous, unhappy man! What, what could urge thee,</l>
                      <l>To put thy life, and fortune, in the hands</l>
                      <l>Of wretches, mad with anguiſh! Self-defence,</l>
                      <l>Sounds the alarm, thro' all the tortur'd paſſions;</l>
@@ -2699,7 +2700,7 @@ An argument for life!—what can ſhe mean?</l>
                      <l>And fond remembrance ſtartles o'er my thoughts—</l>
                      <l>What haſte, my beating heart—</l>
                      <l>
-                        <pb n="55" facs="tcp:039110_0061_10139DC236B2D2A8"/>It was engrav'd—here on—</l>
+                        <pb n="55" facs="unknown:039110_0061_10139DC236B2D2A8"/>It was engrav'd—here on—</l>
                      <stage>[Rubs the ornament and reads.]</stage>
                      <l>Ha! Arnold!—O Heav'n!</l>
                      <l>Had I one hope reſerv'd—for laſt night's ſtorm,</l>
@@ -2755,7 +2756,7 @@ An argument for life!—what can ſhe mean?</l>
                   <sp>
                      <speaker>FLINT.</speaker>
                      <p>Sav'd or not, we'll have the box—why you young robber would you plunder the wreck? Seize
-<pb n="56" facs="tcp:039110_0062_10139DC618C268D0"/>
+<pb n="56" facs="unknown:039110_0062_10139DC618C268D0"/>
 him, lads, and duck him; that he may tell no tales— but ſearch him, firſt. He has more valuables about him that belong to the ſhip.</p>
                   </sp>
                   <stage>[They ſeize him.]</stage>
@@ -2816,7 +2817,7 @@ him, lads, and duck him; that he may tell no tales— but ſearch him, firſt. H
                         <stage>(Kneeling.)</stage>
 Kind ſtranger, hear me!</l>
                      <l>
-                        <pb n="57" facs="tcp:039110_0063_10139DC8A96FA2B0"/>I am no thief: I found this cabinet,</l>
+                        <pb n="57" facs="unknown:039110_0063_10139DC8A96FA2B0"/>I am no thief: I found this cabinet,</l>
                      <l>Left by the tide, at ebb, upon the ſtrand;</l>
                      <l>And as by certain marks, it witneſs'd ſtrongly—</l>
                      <l>Of circumſtances near to my affections—</l>
@@ -2881,7 +2882,7 @@ long has it been yours!</l>
                      <l>His laſt bequeſt—a dying token—</l>
                   </sp>
                   <sp>
-                     <pb n="58" facs="tcp:039110_0064_10139DCA2EC242B8"/>
+                     <pb n="58" facs="unknown:039110_0064_10139DCA2EC242B8"/>
                      <speaker>ARNOLD.</speaker>
                      <l>No!</l>
                      <l>It was a pledge of love—of living faith—</l>
@@ -2945,7 +2946,7 @@ Then lives he ſtill?</l>
                      <l>Gift of our parting hour) my Arnold vow'd</l>
                      <l>To keep—to part from, only with his life.—</l>
                      <l>
-                        <pb n="59" facs="tcp:039110_0065_10139DCBB635EE00"/>Judge of my feelings then—when rolling years,</l>
+                        <pb n="59" facs="unknown:039110_0065_10139DCBB635EE00"/>Judge of my feelings then—when rolling years,</l>
                      <l>Of penury, and pining grief, and toil,</l>
                      <l>Have chang'd my proſpects—nay, my very ſex,</l>
                      <l>And left no hope—to wing my fruitleſs pray'rs;</l>
@@ -2987,7 +2988,7 @@ Then lives he ſtill?</l>
                      <l>Look up—look up, my Lucy—Heav'nly Powers!</l>
                      <l>Where is that glowing tint, that rob'd thy cheek?</l>
                      <l>
-                        <pb n="60" facs="tcp:039110_0066_10139DD08A65AAB8"/>The luſtre of thine eyes!—Look up, or Arnold,</l>
+                        <pb n="60" facs="unknown:039110_0066_10139DD08A65AAB8"/>The luſtre of thine eyes!—Look up, or Arnold,</l>
                      <l>In ſight of harbour, is again o'erwhelm'd,</l>
                      <l>Beyond the reach of fate to ſave him more.</l>
                   </sp>
@@ -3042,7 +3043,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                      <speaker>ARNOLD.</speaker>
                      <l>Receive it then with ſmiles, a welcome ſtranger!</l>
                      <l>
-                        <pb n="61" facs="tcp:039110_0067_10139DD31B749C38"/>Not as a ſojourner for hours or days,</l>
+                        <pb n="61" facs="unknown:039110_0067_10139DD31B749C38"/>Not as a ſojourner for hours or days,</l>
                      <l>But one that's come to ſhare your heart with Arnold—</l>
                      <l>To ſtay for years—to paſs a whole life with you!</l>
                   </sp>
@@ -3085,7 +3086,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                <trailer>END OF ACT THE FOURTH.</trailer>
             </div>
             <div n="5" type="act">
-               <pb n="62" facs="tcp:039110_0068_10139DD49FFBA328"/>
+               <pb n="62" facs="unknown:039110_0068_10139DD49FFBA328"/>
                <head>ACT V.</head>
                <div type="scene">
                   <head>
@@ -3123,7 +3124,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                   <stage>(Enters the houſe.)</stage>
                </div>
                <div n="2" type="scene">
-                  <pb n="63" facs="tcp:039110_0069_10139DD7318EA540"/>
+                  <pb n="63" facs="unknown:039110_0069_10139DD7318EA540"/>
                   <head>SCENE II. OLD WILMOT'S, <hi>Houſe.</hi> Leading to the interior apartment.</head>
                   <stage>
                      <hi>Enter</hi> MRS. WILMOT <hi>alone from within.</hi>
@@ -3166,7 +3167,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                      <l>'As your anxiety for fleeting life,</l>
                      <l>'Now the laſt means for its ſupport are failing:</l>
                      <l>
-                        <pb n="64" facs="tcp:039110_0070_10139DDAE59B9810"/>'Were famine not as mortal as the ſword,</l>
+                        <pb n="64" facs="unknown:039110_0070_10139DDAE59B9810"/>'Were famine not as mortal as the ſword,</l>
                      <l>'This warmth might be excus'd:—But take thy choice;</l>
                      <l>'Die how you will, you ſhall not die alone.</l>
                   </sp>
@@ -3226,7 +3227,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                      <l>'Howe'er we may deceive ourſelves or others,</l>
                      <l>'We act from inclination, not by rule,</l>
                      <l>
-                        <pb n="65" facs="tcp:039110_0071_10139DDC6C4C4948"/>'Or none could act amiſs: and that all err,</l>
+                        <pb n="65" facs="unknown:039110_0071_10139DDC6C4C4948"/>'Or none could act amiſs: and that all err,</l>
                      <l>'None but the conſcious hypocrite denies.</l>
                   </sp>
                   <sp>
@@ -3274,7 +3275,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                      <l>'Where was thy pity, where thy patience then?</l>
                      <l>'Thou cruel huſband! Thou unnat'ral father!</l>
                      <l>
-                        <pb n="66" facs="tcp:039110_0072_10139DDEF67479B8"/>'Thou moſt remorſeleſs, moſt ungrateful man!</l>
+                        <pb n="66" facs="unknown:039110_0072_10139DDEF67479B8"/>'Thou moſt remorſeleſs, moſt ungrateful man!</l>
                      <l>'To waſte my fortune, rob me of my ſon,</l>
                      <l>'To drive me to deſpair, and then reproach me,</l>
                      <l>'For being what thou'ſt made me.—</l>
@@ -3313,7 +3314,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                      <hi>Enter</hi> Mrs. WILMOT, <hi>with the ſabre of Young Wilmot.</hi>
                   </stage>
                   <sp>
-                     <pb n="67" facs="tcp:039110_0073_10139DE175588650"/>
+                     <pb n="67" facs="unknown:039110_0073_10139DE175588650"/>
                      <speaker>MRS. WILMOT.</speaker>
                      <l>'The ſtranger ſleeps at preſent; but ſo reſtleſs</l>
                      <l>'His ſlumbers ſeem, they can't continue long.</l>
@@ -3373,7 +3374,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                      <l>'Are lighter ills than this!—I cannot bear it—</l>
                      <l>'Stop, hold thy hand—inconſtant, wretched woman!</l>
                      <l>
-                        <pb n="68" facs="tcp:039110_0074_10139DE53B09D888"/>'What! Doth my heart recoil? O Wilmot! Wil<g ref="char:EOLhyphen"/>mot!</l>
+                        <pb n="68" facs="unknown:039110_0074_10139DE53B09D888"/>'What! Doth my heart recoil? O Wilmot! Wil<g ref="char:EOLhyphen"/>mot!</l>
                      <l>'What pow'r ſhall I invoke to aid thee, Wilmot?</l>
                   </sp>
                   <stage>Exit.</stage>
@@ -3429,7 +3430,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                      <l>Where is he? Tell me, has he not been here?</l>
                      <l>Would he defer your happineſs ſo long?</l>
                      <l>
-                        <pb n="69" facs="tcp:039110_0075_10136E1E2571E830"/>Or could a habit, ſo diſguiſe him to you,</l>
+                        <pb n="69" facs="unknown:039110_0075_10136E1E2571E830"/>Or could a habit, ſo diſguiſe him to you,</l>
                      <l>That you refuſe to own him?</l>
                   </sp>
                   <sp>
@@ -3484,7 +3485,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                      <l>Tho' we have buried it!—Blaſting the name of Wilmot.</l>
                   </sp>
                   <sp>
-                     <pb n="70" facs="tcp:039110_0076_10139DEA6399FBB0"/>
+                     <pb n="70" facs="unknown:039110_0076_10139DEA6399FBB0"/>
                      <speaker>ARNOLD.</speaker>
                      <l>What means thoſe dreadful words, and frantic air?</l>
                      <l>My mind miſgives me! Patience, reaſon, help her!</l>
@@ -3538,7 +3539,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                      <l>Where—where—Oh!—</l>
                      <stage>[Recovering ſlowly, looks around—and ſeeing the bloody ſword, ſcreams aloud.]</stage>
                      <l>
-                        <pb n="71" facs="tcp:039110_0077_10139DECF8EC72E0"/>The dreadful viſion's here!—</l>
+                        <pb n="71" facs="unknown:039110_0077_10139DECF8EC72E0"/>The dreadful viſion's here!—</l>
                      <l>Abhorred wretch! Fell murd'rer of my child!</l>
                      <l>Inhuman father!—Loſt, abandon'd Wilmot!—</l>
                   </sp>
@@ -3585,7 +3586,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                      <l>Let penitence atone our dark deſign,</l>
                      <l>And drive the fiend of deſperation hence!—</l>
                      <l>
-                        <pb n="72" facs="tcp:039110_0078_10139DEECE2C95F8"/>Let thankfulneſs for mercy and deliverance</l>
+                        <pb n="72" facs="unknown:039110_0078_10139DEECE2C95F8"/>Let thankfulneſs for mercy and deliverance</l>
                      <l>O'ercome our conſcious ſhame.—Behold he lives!</l>
                   </sp>
                   <stage>
@@ -3625,7 +3626,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                      </l>
                   </sp>
                   <sp>
-                     <pb n="73" facs="tcp:039110_0079_10139DF25CF1ED68"/>
+                     <pb n="73" facs="unknown:039110_0079_10139DF25CF1ED68"/>
                      <speaker>Y. WILMOT.</speaker>
                      <l>Horrid effect of deſperation's rage!</l>
                      <l>To plunge into eternity, thus bold,</l>
@@ -3668,7 +3669,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                      <l>In laſt night's ſtorm!—</l>
                   </sp>
                   <sp>
-                     <pb n="74" facs="tcp:039110_0080_10139DF4E2E1EA98"/>
+                     <pb n="74" facs="unknown:039110_0080_10139DF4E2E1EA98"/>
                      <speaker>O. WILMOT.</speaker>
                      <l>O, Providence!—My ſon, my ſon!</l>
                      <stage>(Embracing.)</stage>
@@ -3716,7 +3717,7 @@ O Gracious Power! to whom my ſtreaming eyes,</l>
                      <l>Of great deliv'rance! Guilt only ſhould create</l>
                      <l>Deſpair; where guilt is not, deſpair is guilt:—</l>
                      <l>
-                        <pb n="75" facs="tcp:039110_0081_10139DF668279638"/>Proud and impatient under our afflictions,</l>
+                        <pb n="75" facs="unknown:039110_0081_10139DF668279638"/>Proud and impatient under our afflictions,</l>
                      <l>We often counter-work the hidden movement,</l>
                      <l>Of watchful Providence, to make us bleſt.—</l>
                      <l>May heav'n-born poeſy, with art ſublime,</l>
